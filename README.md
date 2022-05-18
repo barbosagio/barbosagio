@@ -7,7 +7,7 @@ Formado na área de produção Audiovisual comecei a trabalhar em uma agência d
 
 <p>Quando me vi já estava totalmente dentro desse mundo e apaixonado pela programação, então neste momento estou em transição de carreira, focando no aprendizado de front-end e criando projetos para evoluir cada vez mais e que no futuro eu possa ajudar muita gente, tanto em facilitar a vida das pessoas, quanto ensinando a programar.</p>
 
-<h2> Um pouco sobre mim: </h2>
+<h2> Algumas curiosidades: </h2>
 
 <div>
      <img width="300px" align="right" src="https://c.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif">
