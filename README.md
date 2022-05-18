@@ -1,4 +1,15 @@
-## Bem-vindo(a) ao meu perfil 😁
+<h1> Olá Mundo, sou o Giovani Barbosa 😁 </h1>
+
+Tenho 25 anos e moro na cidade de São Paulo.
+Formado na área de produção Audiovisual comecei a trabalhar em uma agência de publicidade e por curiosidade através de criações de páginas UX comecei a ter interesse pelo mundo da programação e entender um pouco mais para me aperfeiçoar.
+
+<p>Quando me vi já estava totalmente dentro desse mundo e apaixonado pela programação, então neste momento estou em transição de carreira, focando no aprendizado de front-end e criando projetos para evoluir cada vez mais e que no futuro eu possa ajudar muita gente, tanto em facilitar a vida das pessoa, quanto ensinando a programar.</p>
+
+<h2> Um pouco sobre mim: </h2>
+
+
+
+
 
  <div>
   <a href="https://github.com/barbosagio">
