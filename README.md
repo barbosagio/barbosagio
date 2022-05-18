@@ -7,6 +7,8 @@ Formado na área de produção Audiovisual comecei a trabalhar em uma agência d
 
 <h2> Um pouco sobre mim: </h2>
 
+<div>
+     
 
 
 
