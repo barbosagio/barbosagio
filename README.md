@@ -1,7 +1,5 @@
 <h1> Olá Mundo, sou o Giovani Barbosa 😁 </h1>
 
-<div style= display: "flex"></div>
-
 <p>Tenho 25 anos e moro na cidade de São Paulo.
 Formado na área de produção Audiovisual comecei a trabalhar em uma agência de publicidade e por curiosidade através de criações de páginas UX comecei a ter interesse pelo mundo da programação e entender um pouco mais para me aperfeiçoar.</p>
 
@@ -10,7 +8,7 @@ Formado na área de produção Audiovisual comecei a trabalhar em uma agência d
 <h2> Algumas curiosidades: </h2>
 
 <div>
-   <img width="300px" align="center" src="https://c.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif">
+   <img width="300px" align="right" src="https://c.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif">
 </div>
 
 <ul>
