@@ -8,7 +8,7 @@ Formado na área de produção Audiovisual comecei a trabalhar em uma agência d
 <h2> Algumas curiosidades: </h2>
 
 <div>
-   <img width="300px" align="right" src="https://c.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif">
+   <img width="200px" align="right" src="https://c.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif">
 </div>
 
 <ul>
