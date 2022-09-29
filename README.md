@@ -1,9 +1,7 @@
 <h1> Olá Mundo, sou o Giovani Barbosa 😁 </h1>
 
 <p>Tenho 25 anos e moro na cidade de São Paulo.
-Formado na área de produção Audiovisual comecei a trabalhar em uma agência de publicidade e por curiosidade através de criações de páginas UX comecei a ter interesse pelo mundo da programação e entender um pouco mais para me aperfeiçoar.</p>
-
-<p>Quando me vi já estava totalmente dentro desse mundo e apaixonado pela programação, então neste momento estou em transição de carreira, focando no aprendizado de front-end e criando projetos para evoluir cada vez mais e que no futuro eu possa ajudar muita gente, tanto em facilitar a vida das pessoas, quanto ensinando a programar.</p>
+Formado na área de produção Audiovisual comecei a trabalhar em uma agência de publicidade e por curiosidade através de criações de páginas UX comecei a ter interesse por programação e entender um pouco mais para me aperfeiçoar.</p>
 
 <h2> Algumas curiosidades: </h2>
 
